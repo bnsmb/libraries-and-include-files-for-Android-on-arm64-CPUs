@@ -40,11 +40,12 @@ A repository with the **clang19 toolchain for Android** that can be installed on
 
 [https://github.com/bnsmb/clang19_toolchain_for_android](https://github.com/bnsmb/clang19_toolchain_for_android)
 
-For most of the libraries contained in the repository, the header files, the dynamic libraries (\***.so**) and the static libraries (\***.a**) are included.
 
 The documentation for the **clang19 toolchain for Android** is available [here](http://bnsmb.de/files/public/My_HowTos_for_Android.html#How_to_install_a_Toolchain_for_clang_on_phones_without_root_access) and [here](https://xdaforums.com/t/guide-how-to-install-a-toolchain-for-clang-on-phones-without-root-access.4710235/).
 
 ---
+
+For most of the libraries contained in the repository, the header files, the dynamic libraries (\***.so**) and the static libraries (\***.a**) are included.
 
 Please note that all libraries are compiled using the prefix **/data/local/tmp/sysroot**. Therefor the directories hardcoded in the libraries for config files etc are searched in the directory **/data/local/tmp/sysroot**, examples:
 
