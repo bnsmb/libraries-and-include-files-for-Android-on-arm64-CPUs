@@ -1,0 +1,11 @@
+prefix=/data/local/tmp/sysroot/usr
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: libidn2
+Description: Library implementing IDNA2008 and TR46
+Version: 2.3.7
+Cflags: -I${includedir}
+Libs: -L${libdir} -lidn2
+Libs.private: -L/data/local/tmp/sysroot/lib -liconv -R/data/local/tmp/sysroot/lib -L/data/develop/android/sysroot/usr/lib -lunistring -R/data/develop/android/sysroot/usr/lib

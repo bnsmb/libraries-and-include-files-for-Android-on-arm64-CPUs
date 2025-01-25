@@ -1,0 +1,13 @@
+prefix=/data/local/tmp/sysroot/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: ldns
+Description: Library for DNS programming
+URL: http://www.nlnetlabs.nl/projects/ldns
+Version: 1.8.4
+Requires: 
+Libs: -L${libdir} -lldns
+Libs.private: --sysroot /data/develop/android/android-ndk/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -s -pie -L/data/develop/android/sysroot/usr/lib  
+Cflags: -I${includedir} 

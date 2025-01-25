@@ -1,0 +1,13 @@
+prefix=/data/local/tmp/sysroot/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: confuse
+Version: 3.4-dev
+Description: configuration file parser library
+Requires: 
+Libs: -L${libdir} -lconfuse 
+Cflags: -I${includedir}
+
