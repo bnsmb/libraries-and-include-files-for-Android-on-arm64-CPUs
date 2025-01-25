@@ -1,0 +1,294 @@
+
+# Libraries in the repository as of Sat Jan 25 04:11:55 PM CET 2025:
+
+total 101464
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7   35616 Sep 27 19:42 libgdbm.so.3.0.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Sep 27 19:42 libgdbm.so.3 -> libgdbm.so.3.0.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Sep 27 19:42 libgdbm.so -> libgdbm.so.3.0.0
+-rw-rw-r--. 1 xtrnaw7 xtrnaw7   61360 Sep 27 19:42 libgdbm.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7   13472 Sep 27 19:43 libgdbm_compat.so.3.0.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      23 Sep 27 19:43 libgdbm_compat.so.3 -> libgdbm_compat.so.3.0.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      23 Sep 27 19:43 libgdbm_compat.so -> libgdbm_compat.so.3.0.0
+-rw-rw-r--. 1 xtrnaw7 xtrnaw7   28986 Sep 27 19:43 libgdbm_compat.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  311622 Oct  7 11:58 libmpdec.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  206152 Oct  7 11:58 libmpdec.so.2.4.2
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   36352 Oct  9 10:09 libjson.so.1.0.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Oct  9 10:09 libjson.so.1.0 -> libjson.so.1.0.0
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   31318 Oct  9 10:09 libjson.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  481840 Oct 31 16:15 libnl-route-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      25 Oct 31 16:15 libnl-route-3.so.200 -> libnl-route-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      25 Oct 31 16:15 libnl-route-3.so -> libnl-route-3.so.200.20.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1130 Oct 31 16:15 libnl-route-3.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  817276 Oct 31 16:15 libnl-route-3.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  120008 Oct 31 16:15 libnl-nf-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      22 Oct 31 16:15 libnl-nf-3.so.200 -> libnl-nf-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      22 Oct 31 16:15 libnl-nf-3.so -> libnl-nf-3.so.200.20.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1167 Oct 31 16:15 libnl-nf-3.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   38440 Oct 31 16:15 libnl-idiag-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      25 Oct 31 16:15 libnl-idiag-3.so.200 -> libnl-idiag-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      25 Oct 31 16:15 libnl-idiag-3.so -> libnl-idiag-3.so.200.20.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1130 Oct 31 16:15 libnl-idiag-3.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   29904 Oct 31 16:15 libnl-genl-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      24 Oct 31 16:15 libnl-genl-3.so.200 -> libnl-genl-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      24 Oct 31 16:15 libnl-genl-3.so -> libnl-genl-3.so.200.20.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1123 Oct 31 16:15 libnl-genl-3.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   30272 Oct 31 16:15 libnl-genl-3.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  145688 Oct 31 16:15 libnl-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      19 Oct 31 16:15 libnl-3.so.200 -> libnl-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      19 Oct 31 16:15 libnl-3.so -> libnl-3.so.200.20.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1036 Oct 31 16:15 libnl-3.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  223660 Oct 31 16:15 libnl-3.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  157028 Oct 31 16:15 libnl-nf-3.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   45450 Oct 31 16:15 libnl-idiag-3.a
+drwxrwxr-x. 3 xtrnaw7 xtrnaw7    4096 Oct 31 16:15 libnl
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   57928 Oct 31 16:15 libnl-cli-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      23 Oct 31 16:15 libnl-cli-3.so.200 -> libnl-cli-3.so.200.20.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      23 Oct 31 16:15 libnl-cli-3.so -> libnl-cli-3.so.200.20.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1303 Oct 31 16:15 libnl-cli-3.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   64118 Oct 31 16:15 libnl-cli-3.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7 4724040 Jan 24 19:12 libcrypto.so.3
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  910944 Jan 24 19:12 libssl.so.3
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 9767952 Jan 24 19:12 libcrypto.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      11 Jan 24 19:12 libssl.so -> libssl.so.3
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1862646 Jan 24 19:12 libssl.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      14 Jan 24 19:12 libcrypto.so -> libcrypto.so.3
+drwxrwxr-x. 2 xtrnaw7 xtrnaw7    4096 Jan 24 19:12 engines-3
+drwxrwxr-x. 2 xtrnaw7 xtrnaw7    4096 Jan 24 19:12 ossl-modules
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1331632 Jan 24 19:16 libcurl.so.8.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 19:17 libcurl.so.8 -> ./libcurl.so.8.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 19:17 libcurl.so -> ./libcurl.so.8.3
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1655692 Jan 24 19:18 libcurl.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  130580 Jan 24 19:22 libz.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   96808 Jan 24 19:23 libz.so.1
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      11 Jan 24 19:23 libz.so -> ./libz.so.1
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      18 Jan 24 19:26 libzstd.so.1 -> ./libzstd.so.1.5.6
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      18 Jan 24 19:26 libzstd.so -> ./libzstd.so.1.5.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  829642 Jan 24 19:30 libzstd.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  649688 Jan 24 19:30 libzstd.so.1.5.6
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  845712 Jan 24 20:17 libuv.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1038 Jan 24 20:17 libuv.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1603090 Jan 24 20:17 libuv.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    5432 Jan 24 20:18 libcharset.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     958 Jan 24 20:18 libcharset.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7    2696 Jan 24 20:18 libcharset.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  967264 Jan 24 20:18 libiconv.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     948 Jan 24 20:18 libiconv.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1010430 Jan 24 20:18 libiconv.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  212960 Jan 24 20:23 libidn2.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1159 Jan 24 20:23 libidn2.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  277042 Jan 24 20:23 libidn2.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  157296 Jan 24 20:24 liblzma.so.5.0.4
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 20:24 liblzma.so.5 -> liblzma.so.5.0.4
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 20:24 liblzma.so -> liblzma.so.5.0.4
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     974 Jan 24 20:24 liblzma.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  260256 Jan 24 20:24 liblzma.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  186400 Jan 24 20:26 libpsl.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1349 Jan 24 20:26 libpsl.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   70070 Jan 24 20:26 libpsl.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7 2034816 Jan 24 20:29 libunistring.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1024 Jan 24 20:29 libunistring.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 2829330 Jan 24 20:29 libunistring.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   23600 Jan 24 20:31 libverto.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  136520 Jan 24 20:31 libverto-libevent.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1099 Jan 24 20:31 libverto-libevent.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7    6326 Jan 24 20:31 libverto-libevent.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     951 Jan 24 20:31 libverto.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   34114 Jan 24 20:31 libverto.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7 1467016 Jan 24 20:33 libxml2.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     993 Jan 24 20:33 libxml2.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 2158556 Jan 24 20:33 libxml2.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   80264 Jan 24 20:35 liblz.so.1.14
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   72056 Jan 24 20:35 liblz.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      13 Jan 24 20:35 liblz.so.1 -> liblz.so.1.14
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      13 Jan 24 20:35 liblz.so -> liblz.so.1.14
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  218136 Jan 24 20:37 libnghttp2.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     984 Jan 24 20:37 libnghttp2.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  325742 Jan 24 20:37 libnghttp2.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  183264 Jan 24 20:38 libnghttp3.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     957 Jan 24 20:38 libnghttp3.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  301798 Jan 24 20:38 libnghttp3.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     996 Jan 24 20:47 libpcre2-posix.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     934 Jan 24 20:47 libpcre2-8.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7    6634 Jan 24 20:47 libpcre2-posix.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  536920 Jan 24 20:48 libpcre2-8.so.0.13.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      22 Jan 24 20:48 libpcre2-8.so.0 -> ./libpcre2-8.so.0.13.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      22 Jan 24 20:48 libpcre2-8.so -> ./libpcre2-8.so.0.13.0
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  705950 Jan 24 20:49 libreadline.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   64788 Jan 24 20:49 libhistory.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  340656 Jan 24 20:49 libreadline.so.8.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      18 Jan 24 20:49 libreadline.so.8 -> libreadline.so.8.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 20:49 libreadline.so -> libreadline.so.8
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   37920 Jan 24 20:49 libhistory.so.8.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 24 20:49 libhistory.so.8 -> libhistory.so.8.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      15 Jan 24 20:49 libhistory.so -> libhistory.so.8
+-rw-rw-r--. 1 xtrnaw7 xtrnaw7  270178 Jan 24 20:50 libbz2.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  198912 Jan 24 20:51 libbz2.so.1.0.8
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 24 20:51 libbz2.so.1 -> ./libbz2.so.1.0.8
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 24 20:51 libbz2.so -> ./libbz2.so.1.0.8
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1021 Jan 24 20:54 libbrotlienc.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1021 Jan 24 20:54 libbrotlidec.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   48640 Jan 24 20:54 libbrotlidec.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     981 Jan 24 20:54 libbrotlicommon.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  134980 Jan 24 20:54 libbrotlicommon.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  628332 Jan 24 20:54 libbrotlienc.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  573128 Jan 24 20:54 libbrotlienc.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  134600 Jan 24 20:54 libbrotlicommon.so.1.1.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7 3606160 Jan 24 21:06 libgnutls.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1470 Jan 24 21:06 libgnutls.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  255800 Jan 24 21:06 libgnutlsxx.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1518 Jan 24 21:06 libgnutlsxx.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 4420842 Jan 24 21:07 libgnutls.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  479408 Jan 24 21:09 libldns.so
+-rw-rw-r--. 1 xtrnaw7 xtrnaw7     977 Jan 24 21:09 libldns.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  737720 Jan 24 21:09 libldns.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   80240 Jan 24 21:10 libtasn1.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     963 Jan 24 21:10 libtasn1.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  123462 Jan 24 21:10 libtasn1.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  174528 Jan 24 21:11 libexpat.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     951 Jan 24 21:11 libexpat.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  219654 Jan 24 21:11 libexpat.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  320768 Jan 24 21:12 libedit.so.0.0.41
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 24 21:12 libedit.so.0 -> libedit.so.0.0.41
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 24 21:12 libedit.so -> libedit.so.0.0.41
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     984 Jan 24 21:12 libedit.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  300606 Jan 24 21:12 libedit.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1014 Jan 24 21:12 libevent_pthreads.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   10568 Jan 24 21:12 libevent_pthreads-2.2.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1018 Jan 24 21:12 libevent_openssl.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   37136 Jan 24 21:12 libevent_openssl-2.2.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     969 Jan 24 21:12 libevent.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     999 Jan 24 21:12 libevent_extra.la
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  183360 Jan 24 21:12 libevent_extra-2.2.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     994 Jan 24 21:12 libevent_core.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  403414 Jan 24 21:12 libevent_core.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  251872 Jan 24 21:12 libevent_core-2.2.so
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  674032 Jan 24 21:12 libevent.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  416392 Jan 24 21:12 libevent-2.2.so
+-rw-r--r--. 1 xtrnaw7 xtrnaw7    6412 Jan 24 21:12 libevent_pthreads.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   36978 Jan 24 21:12 libevent_openssl.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  270690 Jan 24 21:12 libevent_extra.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   93312 Jan 24 21:13 libffi.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     936 Jan 24 21:13 libffi.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  106040 Jan 24 21:13 libffi.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     901 Jan 24 21:18 libgdbm.la
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 21:24 libjson.so -> libjson.so.1.0.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      19 Jan 24 21:27 libmpdec.so.2 -> ./libmpdec.so.2.4.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      19 Jan 24 21:27 libmpdec.so -> ./libmpdec.so.2.4.2
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  502040 Jan 24 21:29 libmpfr.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1004 Jan 24 21:29 libmpfr.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1106612 Jan 24 21:29 libmpfr.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1157640 Jan 24 21:30 libnettle.so.8.9
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 21:30 libnettle.so.8 -> libnettle.so.8.9
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 24 21:30 libnettle.so -> libnettle.so.8.9
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 2146312 Jan 24 21:30 libnettle.a
+-rw-rw-r--. 1 xtrnaw7 xtrnaw7 1495640 Jan 24 21:30 libhogweed.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  134544 Jan 24 21:31 libmpc.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1037 Jan 24 21:31 libmpc.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  277802 Jan 24 21:31 libmpc.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   84984 Jan 24 21:46 libpipeline.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     961 Jan 24 21:46 libpipeline.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  171658 Jan 24 21:46 libpipeline.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   65840 Jan 24 21:47 libconfuse.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     956 Jan 24 21:47 libconfuse.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   93390 Jan 24 21:47 libconfuse.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  552992 Jan 24 21:53 libgmp.so
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7     943 Jan 24 21:53 libgmp.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1189088 Jan 24 21:53 libgmp.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  317736 Jan 24 21:57 libpcap.so.1.10.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 24 21:57 libpcap.so.1 -> libpcap.so.1.10.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      12 Jan 24 21:57 libpcap.so -> libpcap.so.1
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  471404 Jan 24 21:57 libpcap.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  229928 Jan 25 07:59 libtinfow.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 25 07:59 libtinfow.so.6 -> libtinfow.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      14 Jan 25 07:59 libtinfow.so -> libtinfow.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  403474 Jan 25 07:59 libtinfow.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1763566 Jan 25 07:59 libtinfow_g.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7 1351112 Jan 25 08:06 libcares.so
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 2852008 Jan 25 08:06 libcares_static.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 2851888 Jan 25 08:17 libcares.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  227200 Jan 25 08:28 libtinfo.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      15 Jan 25 08:28 libtinfo.so.6 -> libtinfo.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      13 Jan 25 08:28 libtinfo.so -> libtinfo.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  398924 Jan 25 08:28 libtinfo.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1692410 Jan 25 08:28 libtinfo_g.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  551912 Jan 25 08:28 libncurses.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 25 08:28 libncurses.so.6 -> libncurses.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      15 Jan 25 08:28 libncurses.so -> libncurses.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  859536 Jan 25 08:28 libncurses.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7   29872 Jan 25 08:28 libpanel.so.6.3
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 3282932 Jan 25 08:28 libncurses_g.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      15 Jan 25 08:28 libpanel.so.6 -> libpanel.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      13 Jan 25 08:28 libpanel.so -> libpanel.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  269112 Jan 25 08:28 libpanel_g.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   40242 Jan 25 08:28 libpanel.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7   52088 Jan 25 08:28 libmenu.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      14 Jan 25 08:28 libmenu.so.6 -> libmenu.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      12 Jan 25 08:28 libmenu.so -> libmenu.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  349324 Jan 25 08:28 libmenu_g.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   79334 Jan 25 08:28 libmenu.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  112920 Jan 25 08:28 libform.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 25 08:28 terminfo -> ../share/terminfo
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  151328 Jan 25 08:28 libncurses++.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      19 Jan 25 08:28 libncurses++.so.6 -> libncurses++.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      17 Jan 25 08:28 libncurses++.so -> libncurses++.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  264482 Jan 25 08:28 libncurses++.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      14 Jan 25 08:28 libform.so.6 -> libform.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      12 Jan 25 08:28 libform.so -> libform.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  648658 Jan 25 08:28 libform_g.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  162612 Jan 25 08:28 libform.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      18 Jan 25 08:28 libncursesw.so.6 -> libncursesw.so.6.3
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  564402 Jan 25 08:28 libncurses++w_g.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  264482 Jan 25 08:28 libncurses++w.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  562738 Jan 25 08:28 libncurses++_g.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  123240 Jan 25 08:28 libformw.so.6.3
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  151568 Jan 25 08:28 libncurses++w.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 25 08:28 libncursesw.so -> libncursesw.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  703474 Jan 25 08:28 libformw_g.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  173980 Jan 25 08:28 libformw.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 25 08:28 libpanelw.so.6 -> libpanelw.so.6.3
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  658032 Jan 25 08:28 libncursesw.so.6.3
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 3897084 Jan 25 08:28 libncursesw_g.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7   30112 Jan 25 08:28 libpanelw.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      14 Jan 25 08:28 libpanelw.so -> libpanelw.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   40242 Jan 25 08:28 libpanelw.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      18 Jan 25 08:28 libncurses++w.so -> libncurses++w.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1005344 Jan 25 08:28 libncursesw.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7   53392 Jan 25 08:28 libmenuw.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      15 Jan 25 08:28 libmenuw.so.6 -> libmenuw.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      13 Jan 25 08:28 libmenuw.so -> libmenuw.so.6
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  365756 Jan 25 08:28 libmenuw_g.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   80470 Jan 25 08:28 libmenuw.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      15 Jan 25 08:28 libformw.so.6 -> libformw.so.6.3
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  284696 Jan 25 08:28 libpanelw_g.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      20 Jan 25 08:28 libncurses++w.so.6 -> libncurses++w.so.6.3
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      13 Jan 25 08:28 libformw.so -> libformw.so.6
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7 1795632 Jan 25 08:33 libsqlite3.so.0.8.6
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      19 Jan 25 08:33 libsqlite3.so.0 -> libsqlite3.so.0.8.6
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      19 Jan 25 08:33 libsqlite3.so -> libsqlite3.so.0.8.6
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7    1005 Jan 25 08:33 libsqlite3.la
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 2373988 Jan 25 08:33 libsqlite3.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7  255048 Jan 25 08:43 libjson-c.so
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  465978 Jan 25 08:43 libjson-c.a
+drwxrwxr-x. 7 xtrnaw7 xtrnaw7    4096 Jan 25 08:50 cmake
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  438148 Jan 25 08:51 libcunit.a
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      22 Jan 25 09:48 libbrotlicommon.so -> ./libbrotlicommon.so.1
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   49944 Jan 25 09:49 libbrotlidec.so.1.1.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      23 Jan 25 09:49 libbrotlidec.so.1 -> ./libbrotlidec.so.1.1.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      23 Jan 25 09:49 libbrotlidec.so -> ./libbrotlidec.so.1.1.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      26 Jan 25 09:50 libbrotlicommon.so.1 -> ./libbrotlicommon.so.1.1.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 25 09:55 libjson.so.1 -> libjson.so.1.0.0
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   67064 Jan 25 10:06 liblz4.so.1.10.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 25 10:06 liblz4.so.1 -> liblz4.so.1.10.0
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      16 Jan 25 10:06 liblz4.so -> liblz4.so.1.10.0
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   85338 Jan 25 10:06 liblz4.a
+-rwxr-xr-x. 1 xtrnaw7 xtrnaw7   48848 Jan 25 10:08 libxxhash.so.0.8.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      18 Jan 25 10:08 libxxhash.so.0 -> libxxhash.so.0.8.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      18 Jan 25 10:08 libxxhash.so -> libxxhash.so.0.8.2
+-rw-r--r--. 1 xtrnaw7 xtrnaw7   47000 Jan 25 10:08 libxxhash.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7  809632 Jan 25 10:14 libpcre2-8.a
+-rw-rw-r--. 1 xtrnaw7 xtrnaw7    5494 Jan 25 10:15 libpcre2-fuzzsupport.a
+-rw-r--r--. 1 xtrnaw7 xtrnaw7 1605716 Jan 25 10:33 libsepol.a
+-rwxrwxr-x. 1 xtrnaw7 xtrnaw7  737032 Jan 25 10:33 libsepol.so.2
+lrwxrwxrwx. 1 xtrnaw7 xtrnaw7      15 Jan 25 10:33 libsepol.so -> ./libsepol.so.2
+drwxrwxr-x. 2 xtrnaw7 xtrnaw7    4096 Jan 25 10:44 pkgconfig
+
