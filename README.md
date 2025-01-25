@@ -5,6 +5,8 @@
 
 This repository is work in progress 
 
+**Note that as of now no Android related patches are applied to the source code for the libraries before compiling the libraries!**
+
 ----
 
 This repository contains include files and libraries for Android running on **arm64** CPUs
