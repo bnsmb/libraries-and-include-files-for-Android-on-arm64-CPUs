@@ -9,6 +9,8 @@ This repository is work in progress
 
 This repository contains include files and libraries for Android running on **arm64** CPUs
 
+The libraries in the repository are listed in the file [filelist.txt](https://github.com/bnsmb/libraries-and-include-files-for-Android-on-arm64-CPUs/blob/main/filelist.txt).
+
 The files can be used to compile executables for Android either in Android or on the PC using the [Android NDK](https://developer.android.com/ndk).
 
 A [Magisk](https://topjohnwu.github.io/Magisk/) Module with the [LLVM](https://llvm.org/)  compiler [clang](https://clang.llvm.org/) **version 19** for Android on **arm64** CPUs (called **clang19** in this document)
