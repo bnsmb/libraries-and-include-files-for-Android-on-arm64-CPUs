@@ -70,4 +70,13 @@ OPENSSLDIR: "/data/local/tmp/sysroot/etc/security"
 [xtrnaw7@t15g /data/develop/git_repos/new/sysroot/usr/lib]$ 
 ```
 
+---
+
+**Notes**
+
+The **unzip** binary in some Android distributions does not create correct symbolic links . I therefore recommend unzipping the ZIP file with the **unzip** binary for Android from my homepage if this is done on the phone. That unzip binary should run on any Android and is available here:
+
+[https://bnsmb.de/files/public/Android/binaries_for_arm64/unzip](https://bnsmb.de/files/public/Android/binaries_for_arm64/unzip)
+
+To check, if unzip has created correct symbolic links, check if **./sysroot/usr/lib/libcrypto.so** is a symbolic link after after you have uncomporessed the ZIP file.
 
