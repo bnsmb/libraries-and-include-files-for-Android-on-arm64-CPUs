@@ -17,7 +17,7 @@ old_library=''
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/data/local/tmp/develop/sysroot/usr/lib /data/local/tmp/sysroot/usr/lib/libgnutls.la -L/data/develop/android/android-ndk-r25.2/toolchains/llvm/prebuilt/linux-x86_64/sysroot/lib /data/local/tmp/develop/sysroot/usr/lib/libbrotlicommon.la -L/data/develop/android/android-ndk-r25.2/toolchains/llvm.dir/sysroot/lib -L/data/local/tmp/develop/sysroot/usr/lib -L/data/develop/android/sysroot//usr/lib -lz -lzstd /data/local/tmp/develop/sysroot/usr/lib/libunistring.la /data/local/tmp/develop/sysroot/usr/lib/libiconv.la /data/local/tmp/develop/sysroot/usr/lib/libunistring.la -lnettle -lhogweed /data/local/tmp/develop/sysroot/usr/lib/libgmp.la'
+dependency_libs=' -L/data/local/tmp/develop/sysroot/usr/lib /data/local/tmp/develop/sysroot/usr/lib/libgnutls.la -L/data/local/tmp/sysroot/usr/ndk/r27b/sysroot/usr/lib /data/local/tmp/develop/sysroot/usr/lib/libbrotlicommon.la -L/data/local/tmp/sysroot/usr/ndk/r27b/sysroot/usr/lib -L/data/local/tmp/develop/sysroot/usr/lib -L/data/local/tmp/develop/sysroot/usr/lib -lz -lzstd /data/local/tmp/develop/sysroot/usr/lib/libunistring.la /data/local/tmp/develop/sysroot/usr/lib/libiconv.la /data/local/tmp/develop/sysroot/usr/lib/libunistring.la -lnettle -lhogweed /data/local/tmp/develop/sysroot/usr/lib/libgmp.la'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/data/local/tmp/sysroot/usr/lib'
+libdir='/data/local/tmp/develop/sysroot/usr/lib'
