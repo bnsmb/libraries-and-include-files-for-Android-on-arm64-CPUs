@@ -2,7 +2,7 @@
 #   Copyright (C) 2012-2021, Yann Collet, Facebook
 #   BSD 2-Clause License (https://www.opensource.org/licenses/bsd-license.php)
 
-prefix=/data/develop/android/sysroot
+/data/local/tmp/develop/sysroot
 exec_prefix=${prefix}
 includedir=${prefix}/include
 libdir=${exec_prefix}/lib
