@@ -17,7 +17,7 @@ old_library='libnl-cli-3.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/data/develop/android/sysroot/usr/lib -L/data/local/tmp/develop/sysroot//lib /data/local/tmp/develop/sysroot//usr/lib/libnl-nf-3.la /data/local/tmp/develop/sysroot//usr/lib/libnl-route-3.la /data/local/tmp/develop/sysroot//usr/lib/libnl-genl-3.la /data/local/tmp/develop/sysroot//usr/lib/libnl-3.la -L../../lib -ldl -lm'
+dependency_libs=' -L/data/local/tmp/develop/sysroot/usr/lib -L/data/local/tmp/develop/sysroot//lib /data/local/tmp/develop/sysroot//usr/lib/libnl-nf-3.la /data/local/tmp/develop/sysroot//usr/lib/libnl-route-3.la /data/local/tmp/develop/sysroot//usr/lib/libnl-genl-3.la /data/local/tmp/develop/sysroot//usr/lib/libnl-3.la -L../../lib -ldl -lm'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

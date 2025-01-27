@@ -17,7 +17,7 @@ old_library='libidn2.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -R/data/local/tmp/sysroot/lib -R/data/develop/android/sysroot/usr/lib -L/data/develop/android/sysroot/usr/lib -L/data/local/tmp/sysroot/lib /data/develop/android/sysroot/lib/libiconv.la /data/develop/android/sysroot/lib/libunistring.la'
+dependency_libs=' -R/data/local/tmp/sysroot/lib -R/data/local/tmp/develop/sysroot/usr/lib -L/data/local/tmp/develop/sysroot/usr/lib -L/data/local/tmp/sysroot/lib /data/local/tmp/develop/sysroot/usr/lib/libiconv.la /data/local/tmp/develop/sysroot/usr/lib/libunistring.la'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

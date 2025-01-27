@@ -17,7 +17,7 @@ old_library='libpsl.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -R/data/develop/android/sysroot/usr/lib -L/data/develop/android/sysroot/usr/lib -L/data/local/tmp/sysroot/lib /data/develop/android/sysroot/lib/libiconv.la /data/develop/android/sysroot/lib/libunistring.la -L/data/develop/android/android-ndk-r25.2/toolchains/llvm.dir/sysroot/lib -L/data/develop/android/sysroot/lib -L/data/develop/android/sysroot//usr/lib /data/develop/android/sysroot/lib/libunistring.la /data/develop/android/sysroot/lib/libiconv.la'
+dependency_libs=' -R/data/local/tmp/develop/sysroot/usr/lib -L/data/local/tmp/develop/sysroot/usr/lib -L/data/local/tmp/sysroot/lib /data/local/tmp/develop/sysroot/usr/lib/libiconv.la /data/local/tmp/develop/sysroot/usr/lib/libunistring.la -L/data/develop/android/android-ndk-r25.2/toolchains/llvm.dir/sysroot/lib -L/data/local/tmp/develop/sysroot/usr/lib -L/data/develop/android/sysroot//usr/lib /data/local/tmp/develop/sysroot/usr/lib/libunistring.la /data/local/tmp/develop/sysroot/usr/lib/libiconv.la'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

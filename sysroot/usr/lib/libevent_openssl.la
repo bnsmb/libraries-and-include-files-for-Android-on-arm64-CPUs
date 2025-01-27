@@ -17,7 +17,7 @@ old_library='libevent_openssl.a'
 inherited_linker_flags=' -pthread'
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/data/develop/android/sysroot/usr/lib -lssl -lcrypto'
+dependency_libs=' -L/data/local/tmp/develop/sysroot/usr/lib -lssl -lcrypto'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
