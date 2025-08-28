@@ -9,5 +9,5 @@ URL: http://www.nlnetlabs.nl/projects/ldns
 Version: 1.8.4
 Requires: 
 Libs: -L${libdir} -lldns
-Libs.private: --sysroot /data/local/tmp/develop/sysroot/  -s -pie -L/data/local/tmp/develop/sysroot/usr/lib  
+Libs.private: --sysroot /data/local/tmp/develop/sysroot/  -s -pie -L/data/local/tmp/sysroot/usr/lib  
 Cflags: -I${includedir} 

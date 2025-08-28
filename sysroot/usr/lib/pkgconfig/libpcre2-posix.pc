@@ -1,6 +1,6 @@
 # Package Information for pkg-config
 
-/data/local/tmp/develop/sysroot/usr
+/data/local/tmp/sysroot/usr
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
