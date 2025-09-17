@@ -23,6 +23,25 @@ libstracktrace.so
 
 are empty dummy libraries. Both libraries are required by the Makefiles for some tools but not really usefull or necessary in Androd.
 
+**Notes**
+
+To create another dummy library these instructions can be used (these commands assume you're using the clang19 toolchain mentioned below):
+```
+cat<<EOT >foo.c
+// foo.c  -- make sure that the name of the function defined here is uniq!
+int bs_dummy_function_42() {
+    return 42;
+}
+
+EOT
+
+$CC -fPIE -fPIC -c foo.c
+
+$AR rcs libmylib.a foo.o
+
+$CC $LDFLAGS -shared -o libmylib.so foo.o
+```
+
 ----
 
 A [Magisk](https://topjohnwu.github.io/Magisk/) Module with the [LLVM](https://llvm.org/)  compiler [clang](https://clang.llvm.org/) **version 19** for Android on **arm64** CPUs (called **clang19** in this document)
