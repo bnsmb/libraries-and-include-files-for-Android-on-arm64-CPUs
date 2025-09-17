@@ -15,6 +15,15 @@ The libraries in the repository are listed in the file [filelist.txt](https://gi
 
 The files can be used to compile executables for Android either in Android or on the PC using the [Android NDK](https://developer.android.com/ndk).
 
+Please note that the libraries
+
+libpthreads.so
+libstracktrace.so
+
+are empty dummy libraries. Both libraries are required by the Makefiles for some tools but not really usefull or necessary in Androd.
+
+----
+
 A [Magisk](https://topjohnwu.github.io/Magisk/) Module with the [LLVM](https://llvm.org/)  compiler [clang](https://clang.llvm.org/) **version 19** for Android on **arm64** CPUs (called **clang19** in this document)
 
 
