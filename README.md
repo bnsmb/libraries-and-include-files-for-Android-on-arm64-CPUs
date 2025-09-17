@@ -17,9 +17,9 @@ The files can be used to compile executables for Android either in Android or on
 
 Please note that the libraries
 
-libpthreads.so
+libpthread.so
 
-libstracktrace.so
+libstacktrace.so
 
 are empty dummy libraries. Both libraries are required by the Makefiles for some tools but not really usefull or necessary in Androd.
 
